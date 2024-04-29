@@ -1,2 +1,2 @@
 This is a documentation. This is an automation project.
-I am making changes from other repo.
+I am making changes from local repo.
